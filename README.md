@@ -7,7 +7,7 @@ https://qiita.com/SNQ-2001/items/08196d221a188c5c17bd
 
 ## Required
 
-###install
+### install
 
 ```Ruby
 pod 'Charts'
